@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "exemplo-scss"
+    }
+  },
+  "defaultProject": "exemplo-scss",
+  "cli": {
+    "analytics": false
+  }
 }
